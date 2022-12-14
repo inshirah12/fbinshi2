@@ -4,7 +4,7 @@
        animation-duration: 5s;
        animation-iteration-count: infinite;
        width: 100%;
-       height: 500px;
+       height: 100%;
        padding-top: 200px;
        animation-timing-function: steps(10);
        animation-delay: 0.2s;

@@ -57,7 +57,7 @@ margin-left: 5px;
            float: left;}
 
     .mainbody{ background: linear-gradient(white, #D3D8E8);
-     height: 600px;
+     height: 100%;
      width: 100%;
 }
 .para{font-weight: bold;
